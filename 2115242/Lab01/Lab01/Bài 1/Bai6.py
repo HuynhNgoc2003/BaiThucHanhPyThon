@@ -1,0 +1,5 @@
+dsSo= input('Nhập một dãy số cách nhau bằng dấu phẩy : ')
+list = dsSo.split(",")
+tuple = tuple(list)
+print('Danh sách : ',list)
+print('Tuple : ',tuple)
